@@ -1,6 +1,7 @@
-backend\.venv
-~$act django project 02_frontend.docx
-React django project 02_backend.docx
-React django project 02_frontend.docx
-.vscode
-
+backend/db.sqlite3
+backend/.env
+venv/
+*.pyc
+__pycache__/
+node_modules/
+build/
